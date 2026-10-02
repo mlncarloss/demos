@@ -1,7 +1,7 @@
 # Biblioteca de fotos de las demos
 
 Todas son **CC0** (dominio público) o **PDM** (marca de dominio público), vía Openverse (fuentes: StockSnap, Rawpixel, Flickr, WordPress Photo Directory).
-Uso comercial permitido, sin atribución obligatoria. Revisadas a mano: sin marcas visibles y acordes a su subcategoría.
+Uso comercial permitido, sin atribución obligatoria. Revisadas a mano: sin marcas visibles destacadas y acordes a su subcategoría.
 
 ## italiano (10)
 
@@ -171,3 +171,42 @@ Uso comercial permitido, sin atribución obligatoria. Revisadas a mano: sin marc
 - `assets/lib/restaurante/08.jpg` — Chef Cook — stocksnap — CC0 — https://stocksnap.io/photo/chef-cook-J2W0D3CO2L
 - `assets/lib/restaurante/09.jpg` — Steak Potatoes — stocksnap — CC0 — https://stocksnap.io/photo/steak-potatoes-WYGI6J1B0S
 - `assets/lib/restaurante/10.jpg` — Salmon Fish — stocksnap — CC0 — https://stocksnap.io/photo/salmon-fish-AV3IUF5EDB
+
+## detailing (10)
+
+- `assets/lib/detailing/01.jpg` — Washing Car — rawpixel — CC0 — https://www.rawpixel.com/image/5969654/washing-car
+- `assets/lib/detailing/02.jpg` — Free washing car sponge image — rawpixel — CC0 — https://www.rawpixel.com/image/5927078/photo-image-public-domain-person-free
+- `assets/lib/detailing/03.jpg` — Car Spa Visit ... — flickr — CC0 — https://www.flickr.com/photos/30484128@N03/52736473912
+- `assets/lib/detailing/04.jpg` — Auto Headlight — stocksnap — CC0 — https://stocksnap.io/photo/auto-headlight-KEPSFKGIL9
+- `assets/lib/detailing/05.jpg` — Vw Jetta TSI — flickr — PDM — https://www.flickr.com/photos/92401533@N02/51322138516
+- `assets/lib/detailing/06.jpg` — Vw Jetta TSI — flickr — PDM — https://www.flickr.com/photos/92401533@N02/51322858569
+- `assets/lib/detailing/07.jpg` — Vw Jetta TSI — flickr — PDM — https://www.flickr.com/photos/92401533@N02/51322138601
+- `assets/lib/detailing/08.jpg` — Free close clean air interior — rawpixel — CC0 — https://www.rawpixel.com/image/5923564/photo-image-light-public-domain-logo
+- `assets/lib/detailing/09.jpg` — Annotating Our Dirty Car — flickr — CC0 — https://www.flickr.com/photos/37996646802@N01/51933976632
+- `assets/lib/detailing/10.jpg` — dirty car — flickr — PDM — https://www.flickr.com/photos/191009661@N02/54607112651
+
+## tint (10)
+
+- `assets/lib/tint/01.jpg` — Free luxury black car park — rawpixel — CC0 — https://www.rawpixel.com/image/5927155/photo-image-light-public-domain-logo
+- `assets/lib/tint/02.jpg` — SUV Jeep, location unknown, date — rawpixel — CC0 — https://www.rawpixel.com/image/6112419/suv-jeep-location-unknown-date-unknown
+- `assets/lib/tint/03.jpg` — 1968-1972 GMC 4x4 Pickup Truck — flickr — PDM — https://www.flickr.com/photos/203262123@N08/55414424629
+- `assets/lib/tint/04.jpg` — Black Car — stocksnap — CC0 — https://stocksnap.io/photo/black-car-0LB1NCZM2N
+- `assets/lib/tint/05.jpg` — Black Car Interior, location unknown — rawpixel — CC0 — https://www.rawpixel.com/image/6111494/photo-image-public-domain-logo-black
+- `assets/lib/tint/06.jpg` — Free luxurious black car image — rawpixel — CC0 — https://www.rawpixel.com/image/5907527/photo-image-light-public-domain-logo
+- `assets/lib/tint/07.jpg` — Free black car park street — rawpixel — CC0 — https://www.rawpixel.com/image/5918688/image-light-public-domain-logo
+- `assets/lib/tint/08.jpg` — Free black car street image — rawpixel — CC0 — https://www.rawpixel.com/image/5907813/photo-image-light-public-domain-logo
+- `assets/lib/tint/09.jpg` — 221-365 Land Rover 90 — flickr — PDM — https://www.flickr.com/photos/126293612@N07/51375443812
+- `assets/lib/tint/10.jpg` — Cropped shot red vintage BMW's — rawpixel — CC0 — https://www.rawpixel.com/image/3337506/free-photo-image-automobile-car-cc0
+
+## mecanico (10)
+
+- `assets/lib/mecanico/01.jpg` — Jumpercables Battery — stocksnap — CC0 — https://stocksnap.io/photo/jumpercables-battery-T7T37KWY8G
+- `assets/lib/mecanico/02.jpg` — Speedometer Car — stocksnap — CC0 — https://stocksnap.io/photo/speedometer-car-OOQKOP7VK2
+- `assets/lib/mecanico/03.jpg` — Public Works Fleet Division, Greenville — rawpixel — CC0 — https://www.rawpixel.com/image/9658808/image-person-fire-public-domain
+- `assets/lib/mecanico/04.jpg` — Public Works Fleet Division, Greenville — rawpixel — CC0 — https://www.rawpixel.com/image/9659063/image-person-fire-public-domain
+- `assets/lib/mecanico/05.jpg` — Public Works Fleet Division, Greenville — rawpixel — CC0 — https://www.rawpixel.com/image/9659059/image-person-fire-public-domain
+- `assets/lib/mecanico/06.jpg` — BLM Equipment Inspections — rawpixel — CC0 — https://www.rawpixel.com/image/10993882/blm-equipment-inspections
+- `assets/lib/mecanico/07.jpg` — Public Works Fleet Division, Greenville — rawpixel — CC0 — https://www.rawpixel.com/image/9659062/image-person-fire-public-domain
+- `assets/lib/mecanico/08.jpg` — U.S. Air Force Staff Sgt — rawpixel — CC0 — https://www.rawpixel.com/image/8741229/photo-image-public-domain-person
+- `assets/lib/mecanico/09.jpg` — 211022-N-LK647-004 — flickr — PDM — https://www.flickr.com/photos/94966166@N02/51626464607
+- `assets/lib/mecanico/10.jpg` — Car engine close photo — rawpixel — CC0 — https://www.rawpixel.com/image/5922437/photo-image-public-domain-ocean-technology
